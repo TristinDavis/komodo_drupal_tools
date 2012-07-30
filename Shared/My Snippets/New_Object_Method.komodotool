@@ -1,8 +1,6 @@
 {
   "keyboard_shortcut": "Meta+Ctrl+M", 
-  "set_selection": "true", 
   "name": "New Object Method", 
-  "type": "snippet", 
   "value": [
     "  /**", 
     "\t * [[%ask:desc]]", 
@@ -11,5 +9,8 @@
     "\t\t!@#_currentPos!@#_anchor", 
     "\t}"
   ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
   "indent_relative": "true"
 }

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "Ctrl+A", 
+  "set_selection": "true", 
+  "name": "[a] array", 
+  "type": "snippet", 
+  "value": [
+    "array(", 
+    "\t!@#_currentPos!@#_anchor", 
+    "),"
+  ], 
+  "indent_relative": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "Ctrl+S", 
+  "set_selection": "true", 
+  "name": "[s] switch", 
+  "type": "snippet", 
+  "value": [
+    "switch (!@#_currentPos!@#_anchor) {", 
+    "\t", 
+    "}"
+  ], 
+  "indent_relative": "true"
+}

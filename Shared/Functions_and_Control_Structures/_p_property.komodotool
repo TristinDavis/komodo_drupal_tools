@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "Ctrl+P", 
+  "set_selection": "true", 
+  "name": "[p] #property", 
+  "type": "snippet", 
+  "value": [
+    "'#!@#_currentPos!@#_anchor' => "
+  ], 
+  "indent_relative": "true"
+}

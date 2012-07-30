@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "Ctrl+B", 
+  "set_selection": "false", 
+  "name": "[b] Bold", 
+  "type": "snippet", 
+  "value": [
+    "<strong>[[%s]]</strong>!@#_currentPos!@#_anchor"
+  ], 
+  "indent_relative": "false"
+}
