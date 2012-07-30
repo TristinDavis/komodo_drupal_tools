@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+D", 
+  "name": "Date Stamp", 
+  "value": [
+    "[[%date:%Y-%b-%d]] -- [[%ask:USERNAME:Chris Albrecht]]!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

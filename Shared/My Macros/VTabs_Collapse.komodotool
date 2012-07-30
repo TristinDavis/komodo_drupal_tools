@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "VTabs Collapse", 
+  "language": "JavaScript", 
+  "trigger_enabled": false, 
+  "value": [
+    "var v1 = document.getElementById(\"view-1\");", 
+    "var v2 = document.getElementById(\"view-2\");", 
+    "", 
+    "v1.tabbox.tabs.setAttribute(\"class\", \"hideable\");", 
+    "v2.tabbox.tabs.setAttribute(\"class\", \"hideable\");", 
+    ""
+  ], 
+  "trigger": "trigger_postopen", 
+  "rank": 100, 
+  "version": "1.0.7", 
+  "async": false, 
+  "type": "macro"
+}

@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+F", 
+  "name": "File Description Comment Block", 
+  "value": [
+    "/**", 
+    " * @file", 
+    " * !@#_currentPos!@#_anchor", 
+    " */"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "module.info File", 
+  "value": [
+    "name = [[%ask:name]]", 
+    "description = [[%ask:description]]", 
+    "core = [[%ask1:core]]", 
+    "version = [[%ask1]]-1.0", 
+    "package = [[%ask2:package]]", 
+    "files[] = !@#_currentPos!@#_anchor", 
+    "dependencies[] ="
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://famfamfamsilk/skin/icons/cog.png"
+}

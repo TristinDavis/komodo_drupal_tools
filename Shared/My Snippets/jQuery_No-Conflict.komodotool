@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "Ctrl+J", 
+  "name": "jQuery No-Conflict", 
+  "value": [
+    "(function ($) {", 
+    "\t$(document).ready(function() {", 
+    "    !@#_currentPos!@#_anchor", 
+    "  });", 
+    "})(jQuery);"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+I", 
+  "name": "StopIndex", 
+  "value": [
+    "<!--stopindex-->", 
+    "[[%s]]", 
+    "!@#_currentPos!@#_anchor<!--startindex-->"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

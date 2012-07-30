@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Bash Script Header", 
+  "value": [
+    "#!/bin/bash", 
+    "# File: [[%f]]", 
+    "# Created: [[%date:%Y-%b-%d %H:%M:%S]]", 
+    "# Author: [[%ask:USERNAME:Chris Albrecht]]", 
+    "#", 
+    "# [[%ask:Description]]", 
+    "", 
+    "!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

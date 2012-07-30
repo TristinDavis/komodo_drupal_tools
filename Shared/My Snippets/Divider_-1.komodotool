@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+3", 
+  "set_selection": "true", 
+  "name": "Divider (#)", 
+  "type": "snippet", 
+  "value": [
+    "################################################################################", 
+    "!@#_currentPos!@#_anchor"
+  ], 
+  "indent_relative": "true"
+}

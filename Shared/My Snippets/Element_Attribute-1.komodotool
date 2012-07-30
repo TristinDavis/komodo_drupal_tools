@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "Ctrl+E", 
+  "name": "Element Attribute", 
+  "value": [
+    "'#[[%ask:Name]]' => [[%ask:Value]],", 
+    "!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

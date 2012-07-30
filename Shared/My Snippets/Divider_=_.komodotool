@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+=", 
+  "name": "Divider (=)", 
+  "value": [
+    "================================================================================!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "icon": "chrome://famfamfamsilk/skin/icons/text_horizontalrule.png"
+}

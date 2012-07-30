@@ -1,0 +1,24 @@
+{
+  "keyboard_shortcut": "Ctrl+Shift+_", 
+  "name": "Module Name", 
+  "language": "JavaScript", 
+  "trigger_enabled": false, 
+  "value": [
+    "/**", 
+    " * Insert the name of the module for prefixing.", 
+    " */", 
+    "komodo.assertMacroVersion(3);", 
+    "if (komodo.view) { komodo.view.setFocus(); }", 
+    "", 
+    "// Get the filename and split out the extension", 
+    "var parts = ko.uriparse.baseName(ko.interpolate.currentFilePath()).split('.');", 
+    "var filename = parts[0];", 
+    "komodo.view.selection = filename + \"_\";", 
+    ""
+  ], 
+  "trigger": "trigger_postopen", 
+  "rank": 100, 
+  "version": "1.0.7", 
+  "async": false, 
+  "type": "macro"
+}

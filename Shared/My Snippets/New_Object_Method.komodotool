@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "Meta+Ctrl+M", 
+  "set_selection": "true", 
+  "name": "New Object Method", 
+  "type": "snippet", 
+  "value": [
+    "  /**", 
+    "\t * [[%ask:desc]]", 
+    "\t */", 
+    "\t[[%ask:type]] function [[%ask:name]]([[%ask:params]]) {", 
+    "\t\t!@#_currentPos!@#_anchor", 
+    "\t}"
+  ], 
+  "indent_relative": "true"
+}

@@ -1,0 +1,26 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Vertical Tabs", 
+  "language": "JavaScript", 
+  "trigger_enabled": 1, 
+  "value": [
+    "var v1 = document.getElementById(\"view-1\");", 
+    "var v2 = document.getElementById(\"view-2\");", 
+    "", 
+    "v1.tabbox.setAttribute(\"orient\", \"horizontal\");", 
+    "v1.tabbox.setAttribute(\"dir\", \"\");", 
+    "v1.tabbox.tabs.setAttribute(\"orient\", \"vertical\");", 
+    "v1.tabbox.tabs.setAttribute(\"align\", \"left\");", 
+    "", 
+    "v2.tabbox.setAttribute(\"orient\", \"horizontal\");", 
+    "v2.tabbox.setAttribute(\"dir\", \"\");", 
+    "v2.tabbox.tabs.setAttribute(\"orient\", \"vertical\");", 
+    "v2.tabbox.tabs.setAttribute(\"align\", \"left\");", 
+    ""
+  ], 
+  "trigger": "trigger_startup", 
+  "rank": 100, 
+  "version": "1.0.7", 
+  "async": 1, 
+  "type": "macro"
+}
