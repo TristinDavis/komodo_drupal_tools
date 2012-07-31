@@ -1,10 +1,11 @@
 {
   "keyboard_shortcut": "Meta+Ctrl+Shift+T", 
-  "set_selection": "true", 
   "name": "[t] t (wrap)", 
-  "type": "snippet", 
   "value": [
     "t('[[%s]]')!@#_currentPos!@#_anchor"
   ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
   "indent_relative": "true"
 }

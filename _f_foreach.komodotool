@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "Ctrl+F", 
+<<<<<<< HEAD
+  "name": "[f] foreach", 
+=======
+  "name": "FOREACH", 
+>>>>>>> 3a937abc812f23f1ab9914b1877e57d293827e7b
+  "value": [
+    "foreach (!@#_currentPos!@#_anchor) {", 
+    "\t", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

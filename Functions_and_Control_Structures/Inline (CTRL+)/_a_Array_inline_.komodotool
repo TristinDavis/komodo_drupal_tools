@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "Ctrl+A", 
+  "name": "[a] Array (inline)", 
+  "value": [
+    "array(!@#_currentPos!@#_anchor)"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}

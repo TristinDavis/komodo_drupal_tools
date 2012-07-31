@@ -1,5 +1,5 @@
 {
-  "keyboard_shortcut": "Ctrl+D", 
+  "keyboard_shortcut": "Ctrl+Alt+D", 
   "name": "[d] define", 
   "value": [
     "define('[[%ask:Name]]', '[[%ask:Value]]');", 

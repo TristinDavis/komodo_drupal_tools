@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "Ctrl+S", 
+<<<<<<< HEAD
+  "name": "[s] switch", 
+=======
+  "name": "SWITCH", 
+>>>>>>> 3a937abc812f23f1ab9914b1877e57d293827e7b
+  "value": [
+    "switch (!@#_currentPos!@#_anchor) {", 
+    "\t", 
+    "}"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "true"
+}
